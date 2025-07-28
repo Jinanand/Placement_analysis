@@ -30,7 +30,7 @@ The dataset includes information about college students such as:
 
 ---
 
-## 🛠 Libraries Used
+##  Libraries Used
 
 - `pandas`, `numpy` – Data manipulation
 - `seaborn`, `matplotlib`, `plotly` – Visualization
